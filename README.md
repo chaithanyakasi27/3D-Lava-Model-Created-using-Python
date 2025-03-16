@@ -1,4 +1,7 @@
 # Lava 3D Model in Maya using Python
+![Lava Model](https://raw.githubusercontent.com/chaithanyakasi27/3D-Lava-Model-Created-using-Python/refs/heads/main/lava%20image.png)
+*Figure: Lava 3D Model*
+
 
 ## Description
 This module creates a **Lava** model and applies procedural shaders using Python in **Autodesk Maya**.
